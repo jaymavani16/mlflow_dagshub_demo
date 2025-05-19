@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-practice/mlruns/739329999072562456/6d61ba4c1bc94d808bbb12bd42caaefe/artifacts
+end_time: 1747637760450
+entry_point_name: ''
+experiment_id: '739329999072562456'
+lifecycle_stage: active
+run_id: 6d61ba4c1bc94d808bbb12bd42caaefe
+run_name: sneaky-snake-616
+run_uuid: 6d61ba4c1bc94d808bbb12bd42caaefe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747637760363
+status: 3
+tags: []
+user_id: jayma

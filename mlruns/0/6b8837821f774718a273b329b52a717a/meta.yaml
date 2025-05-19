@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6b8837821f774718a273b329b52a717a/artifacts
+end_time: 1747636625386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b8837821f774718a273b329b52a717a
+run_name: useful-mole-178
+run_uuid: 6b8837821f774718a273b329b52a717a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747636625217
+status: 3
+tags: []
+user_id: jayma

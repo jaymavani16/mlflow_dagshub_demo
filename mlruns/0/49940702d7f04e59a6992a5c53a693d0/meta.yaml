@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/49940702d7f04e59a6992a5c53a693d0/artifacts
+deleted_time: 1747636857877
+end_time: 1747636590070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 49940702d7f04e59a6992a5c53a693d0
+run_name: capricious-rat-565
+run_uuid: 49940702d7f04e59a6992a5c53a693d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747636589978
+status: 4
+tags: []
+user_id: jayma

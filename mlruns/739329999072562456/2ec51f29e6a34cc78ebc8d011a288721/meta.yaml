@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-practice/mlruns/739329999072562456/2ec51f29e6a34cc78ebc8d011a288721/artifacts
+end_time: 1747639298393
+entry_point_name: ''
+experiment_id: '739329999072562456'
+lifecycle_stage: active
+run_id: 2ec51f29e6a34cc78ebc8d011a288721
+run_name: practice-artifacts-code-model
+run_uuid: 2ec51f29e6a34cc78ebc8d011a288721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747639289319
+status: 3
+tags: []
+user_id: jayma
