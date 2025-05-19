@@ -10,6 +10,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import mlflow
 
+import dagshub
+dagshub.init(repo_owner='jaymavani16', repo_name='mlflow_dagshub_demo', mlflow=True)
+
+
+mlflow.set_tracking_uri("https://dagshub.com/jaymavani16/mlflow_dagshub_demo.mlflow")
 # load data
 iris = load_iris()
 X = iris.data
@@ -22,7 +27,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 max_depth = 5
 # apply mlflow
 mlflow.set_experiment('iris-dt')
-with mlflow.start_run(run_name="practice-artifacts-code-model"):
+with mlflow.start_run(run_name="practice-dagshub"):
     dt = DecisionTreeClassifier(max_depth=max_depth)
     dt.fit(X_train,y_train)
     y_pred = dt.predict(X_test)
